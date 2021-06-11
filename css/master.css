@@ -1,0 +1,12 @@
+.page{
+    display: none;
+}
+
+.page.active{
+    display: block;
+}
+
+ a{
+    
+    text-decoration: none;
+}
